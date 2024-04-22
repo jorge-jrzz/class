@@ -1,0 +1,23 @@
+{
+    "os": "Linux-5.19.0-45-generic-x86_64-with-glibc2.31",
+    "python": "3.9.16",
+    "heartbeatAt": "2024-04-21T23:33:20.545347",
+    "startedAt": "2024-04-21T23:33:20.046884",
+    "docker": null,
+    "gpu": "Quadro P5000",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "train_clothes_clasification.ipynb",
+    "root": "/notebooks",
+    "git": {
+        "remote": "https://github.com/gradient-ai/PyTorch.git",
+        "commit": "d0ecbf76aac3ae9a65bc12d8ef8dbbf7ff5ecef7"
+    },
+    "email": null,
+    "host": "np8h3g1df0",
+    "username": "root",
+    "executable": "/usr/local/bin/python3"
+}
