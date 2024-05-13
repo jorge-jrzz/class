@@ -49,11 +49,11 @@ For this train I use the YOLOv8s-cls
 
 **Original image:**
 
-![original image](pants.png)
+![original image](images/pants.png)
 
 **Image with predicts:**
 
-![image with predicts](results.png)
+![image with predicts](images/results.png)
 
 ## Colors processing
 
@@ -65,7 +65,7 @@ The function `recognize_predominant_color` will open the PNG image, convert the 
 
 **The color of the pants is also:**
 
-![pants color](media/pants_color.png)
+![pants color](images/pants_color.png)
 
 ### Matching Colors Function
 
